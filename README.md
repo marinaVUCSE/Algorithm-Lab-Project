@@ -40,7 +40,11 @@ Varendra University, Rajshahi.
 ## Note
 The pharmacy information and distances are sample data for this project.
 
-## Project
-Algorithm Lab Project  
-Department of Computer Science and Engineering  
-Varendra University
+## Contributors
+1. Mst. Marina Akhter – GitHub: marinaVUCSE
+2. Mst. Sohely – Github: sohely-borsha
+
+## Project Information
+Course: Computer Algorithms Lab
+Department: Computer Science and Engineering
+University: Varendra University
