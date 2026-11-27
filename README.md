@@ -45,6 +45,6 @@ The pharmacy information and distances are sample data for this project.
 2. Mst. Sohely – Github: sohely-borsha
 
 ## Project Information
-Course: Computer Algorithms Lab
-Department: Computer Science and Engineering
-University: Varendra University
+- Course: Computer Algorithms Lab
+- Department: Computer Science and Engineering
+- University: Varendra University
